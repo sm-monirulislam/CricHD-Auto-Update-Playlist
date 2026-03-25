@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/sm-monirulislam/FanCode-Auto-Update-Playlist/blob/main/fancode_images/fancode_banner.png" alt="🔥 CricHD 🔥" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/sm-monirulislam/CricHD-Auto-Update-Playlist/blob/main/image/crichd-banner.jpg" alt="🔥 CricHD 🔥" width="200"></a>
   
 
 <h2 align="center">A script built to automate GitHub Actions by scheduling daily executions that ensure FanCode channel HLS links remain updated</h2>
