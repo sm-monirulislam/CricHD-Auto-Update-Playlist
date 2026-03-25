@@ -27,11 +27,11 @@
 </p>
 
 <h1 align="center">
- <a href="www.aynaott.com"><img src="https://images.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZmMtd2ViL2hvbWUtcGFnZS1uZXctYXJjL2hlcm8taW1hZ2UvdjEvaGVyby1pbWFnZS1td2ViLXYyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxMDgwLCJoZWlnaHQiOjk3Mn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0="></a>
+ <a href="www.aynaott.com"><img src="https://github.com/sm-monirulislam/CricHD-Auto-Update-Playlist/blob/main/image/crichd.jpg"></a>
 </h1>
 
 # 📕 Introdicton 
-* [FanCode](https://play.google.com/store/apps/details?id=com.dream11sportsguru) India’s first live streaming platform dedicated to sports and sports fans. Live cricket, live kabaddi, football and more.The script can Scape channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
+* [CricHD](https://play.google.com/store/apps/details?id=dream11sportsguru) India’s first live streaming platform dedicated to sports and sports fans. Live cricket, live kabaddi, football and more.The script can Scape channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
 # 🔵 Key Features
 
