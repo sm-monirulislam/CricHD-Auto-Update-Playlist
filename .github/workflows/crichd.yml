@@ -21,16 +21,16 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: 📥 Install requests
+      - name: 📥 Install Dependencies
         run: pip install requests
 
       - name: ▶️ Run Script
         run: python crichd.py
 
-      - name: 💾 Commit & Push Playlist
+      - name: 💾 Commit & Push Files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add crichd.m3u
-          git commit -m "🔄 Auto update CricHD playlist" || echo "No changes"
+          git add crichd.m3u crichd.json
+          git diff --cached --quiet || git commit -m "🔄 Auto update CricHD playlist & JSON"
           git push
