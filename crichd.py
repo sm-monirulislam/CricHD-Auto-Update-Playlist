@@ -1,10 +1,13 @@
 import requests
 import re
+import json
+from datetime import datetime
 
-# --- API URL ---
 JSON_API = "https://sm-iptv-channel-data.pages.dev/CricHD_id.json"
 
-OUTPUT_FILE = "crichd.m3u"
+M3U_FILE = "crichd.m3u"
+JSON_FILE = "crichd.json"
+
 
 def get_stream(id):
     try:
@@ -25,8 +28,7 @@ def get_stream(id):
             if match:
                 parts = match.group(1).split(',')
                 stream = "".join([p.strip().strip('"') for p in parts])
-                stream = stream.replace("\\/", "/")
-                return stream
+                return stream.replace("\\/", "/")
 
     except Exception as e:
         print(f"Error for {id}: {e}")
@@ -35,39 +37,79 @@ def get_stream(id):
 
 
 def main():
-    try:
-        # JSON load
-        res = requests.get(JSON_API)
-        data = res.json()
+    res = requests.get(JSON_API)
+    data = res.json()
 
-        m3u = "#EXTM3U\n\n"
+    m3u = "#EXTM3U\n"
+    m3u += "#=================================\n"
+    m3u += "# 🖥️ Developed by: Monirul Islam\n"
+    m3u += "# 🔗 Telegram: https://t.me/monirul_Islam_SM\n"
 
-        for ch in data:
-            ch_id = ch.get("id")
-            name = ch.get("name")
-            logo = ch.get("logo")
-            referer = ch.get("referer")
+    now = datetime.now()
+    time_str = now.strftime("%Y-%m-%d %I:%M:%S %p")
+    date_str = now.strftime("%Y-%m-%d")
 
-            print(f"Fetching: {name}")
+    channel_list = []
+    count = 0
 
-            stream = get_stream(ch_id)
+    temp_m3u = ""
 
-            if stream:
-                m3u += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo}",{name}\n'
-                m3u += f'#EXTVLCOPT:http-referrer={referer}\n'
-                m3u += f'#EXTVLCOPT:http-user-agent=Mozilla/5.0\n'
-                m3u += f"{stream}\n\n"
-            else:
-                print(f"❌ Stream not found: {name}")
+    for ch in data:
+        ch_id = ch.get("id")
+        name = ch.get("name")
+        logo = ch.get("logo")
+        referer = ch.get("referer")
 
-        # save file
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write(m3u)
+        print(f"Fetching: {name}")
 
-        print("✅ Playlist created: crichd.m3u")
+        stream = get_stream(ch_id)
 
-    except Exception as e:
-        print("❌ Error:", e)
+        if stream:
+            count += 1
+
+            # M3U part
+            temp_m3u += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo}",{name}\n'
+            temp_m3u += f'#EXTVLCOPT:http-referrer={referer}\n'
+            temp_m3u += f"{stream}\n\n"
+
+            # JSON part
+            channel_list.append({
+                "id": ch_id,
+                "title": name,
+                "logo": logo,
+                "url": stream,
+                "category": "sports"
+            })
+
+        else:
+            print(f"❌ Skip: {name}")
+
+    # Header finish
+    m3u += f"# 🕒 Last Updated: {time_str}\n"
+    m3u += f"# 📺 Channels Count: {count}\n"
+    m3u += "#=================================\n\n"
+
+    m3u += temp_m3u
+
+    # Save M3U
+    with open(M3U_FILE, "w", encoding="utf-8") as f:
+        f.write(m3u)
+
+    # JSON structure
+    output_json = {
+        "status": "success",
+        "name": "CricHD Live Channels",
+        "owner": "Monirul Islam",
+        "channels_amount": count,
+        "Last_update": date_str,
+        "response": channel_list
+    }
+
+    # Save JSON
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(output_json, f, indent=2, ensure_ascii=False)
+
+    print("✅ Done! M3U + JSON created")
 
 
 if __name__ == "__main__":
