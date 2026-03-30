@@ -9,7 +9,7 @@
       "id": "star1in",
       "title": "Star Sports 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/16-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=UUMzdgklRYkmd6_9M535eQ&expires=1774868110",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=igBAXlyc_6F-KV4Cc9oO7w&expires=1774873092",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -17,7 +17,7 @@
       "id": "starhindi",
       "title": "Star Sports 1 Hindi",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=e4HbuulUvbAEaBFUfFtXkQ&expires=1774868110",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=DYFKLZZ4ydTF9I4EPaKqaw&expires=1774873093",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -25,7 +25,7 @@
       "id": "ptvpk",
       "title": "PTV Sports",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/20-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=CbqQJ-31dXdMHWkeedlcVA&expires=1774868111",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=uBZz21R9WnaWNia2pMt8Hg&expires=1774873093",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -33,7 +33,7 @@
       "id": "willowusa",
       "title": "Willow HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/38-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=y1k02NDWH92TI_nvtdYcPg&expires=1774868111",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=FHqQvf2qvJodOCHU9mp4FQ&expires=1774873094",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -41,7 +41,7 @@
       "id": "willowextra",
       "title": "Willow HD 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/8-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=7f6xEo7nu_HCPeWqJG8Seg&expires=1774868111",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=LoR5q1yca0PlnqlyYb6EnA&expires=1774873094",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -49,7 +49,7 @@
       "id": "tenspk",
       "title": "Ten Sports",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/10-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=WPEjZcd_fTcnCy8yeKKQfg&expires=1774868112",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=WKeHy5SXBe0mJnAM1-93Iw&expires=1774873095",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -57,7 +57,7 @@
       "id": "asportshd",
       "title": "A Sports HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/12-exptv.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=vMJ11dmCZ_8rdZi_5OZuGw&expires=1774868112",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=a7J5gAvcyfClxPAKIas6og&expires=1774873095",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -65,7 +65,7 @@
       "id": "skyscric",
       "title": "Sky Sports Cricket",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/9-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=tGo3TLziZRwSVepZPiBoeA&expires=1774868113",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=U7g9xnw2CK-dAGS4KnzFvA&expires=1774873096",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -73,7 +73,7 @@
       "id": "skysme",
       "title": "Sky Sports Main Event",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/18-exptv.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=vwrO9_Z3vBIggJ-stqihxw&expires=1774868113",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=zD847Fl964s9sN_Bb6OonA&expires=1774873096",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -81,7 +81,7 @@
       "id": "bbtsp1",
       "title": "TNT 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=25aqgxkaEREnGa6cgZNCrA&expires=1774868113",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=ffPZ42ZxlOZTWgpOy888-w&expires=1774873097",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -89,7 +89,7 @@
       "id": "bbtsp2",
       "title": "TNT 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=TPj1aoHSEdVmnRu5paWJtg&expires=1774868114",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=DH-oXa5a0-gnwvCKIa8jiQ&expires=1774873097",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -97,7 +97,7 @@
       "id": "bbtsp3",
       "title": "TNT 3",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=YImXTeuTWP2AAOwiAWzf6A&expires=1774868114",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=fxPCxOuibTZUYOtjOngQ-A&expires=1774873098",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -105,7 +105,7 @@
       "id": "bbtespn",
       "title": "TNT 4",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=6laPErM6u9xpEh7hKMSF9g&expires=1774868114",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=R-2cKAnAo14CWO7MqMAjoQ&expires=1774873098",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -113,7 +113,7 @@
       "id": "sky1nz",
       "title": "Sky Sport Nz 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=xAzFxGsu-J30wiYWwlHUKA&expires=1774868115",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=LFrghfCt7_suBoLp1Uajbw&expires=1774873099",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -121,7 +121,7 @@
       "id": "sky2nz",
       "title": "Sky Sport Nz 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=xOIgYMg1urPdk4VijrQEHQ&expires=1774868115",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=D96RQnQl8GiVSe2W2DVuVQ&expires=1774873099",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -129,7 +129,7 @@
       "id": "sky3nz",
       "title": "Sky Sport Nz 3",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=ff-rfBrDbY1LxvcJUNJUJA&expires=1774868115",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=PpT4ulsMEBwKIJNs9q3saA&expires=1774873100",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -137,7 +137,7 @@
       "id": "sky4nz",
       "title": "Sky Sport Nz 4",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=3wAnGujyU24U1Y3Bmea1xw&expires=1774868116",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=9dTY7iuaEuCRA99J6ae4OA&expires=1774873100",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -145,7 +145,7 @@
       "id": "sky5nz",
       "title": "Sky Sport Nz 5",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=wm4Xhc-N4O_JUwJPMRsL8w&expires=1774868116",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=UyZB6WylQvCKofcckd35pg&expires=1774873101",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -153,7 +153,7 @@
       "id": "sky6nz",
       "title": "Sky Sport 6 Nz",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=KPiRr_1Gg5blltwmiHXnMQ&expires=1774868116",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=h4OXqnOTRDEqG17aT9PHpA&expires=1774873101",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -161,7 +161,7 @@
       "id": "sky7nz",
       "title": "Sky Sport Nz 7",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=DQBDJbpnRo1_KO4phTtD2A&expires=1774868117",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=QfFInBcJ2wlXJakHg41KPg&expires=1774873102",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -169,7 +169,7 @@
       "id": "sky8nz",
       "title": "Sky Sport Nz 8",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=L6Sf_790VkXMvQU9arL3VQ&expires=1774868117",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=JrPHiBLK1r7PWI8uwwUcwQ&expires=1774873102",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -177,7 +177,7 @@
       "id": "sky9nz",
       "title": "Sky Sport Nz 9",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=ldYzXkdMnXso9GALlqhivw&expires=1774868117",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=Ot6SWH_uPhnEJ6oOdftWBA&expires=1774873103",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -185,7 +185,7 @@
       "id": "skysme",
       "title": "Sky Cinema",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/skycinema.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=QxY9u7-Ad7lxUQWJJCWjUg&expires=1774868118",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=D7_pDoWt8XTUOshxmWNz6w&expires=1774873103",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -193,7 +193,7 @@
       "id": "skysact",
       "title": "Sky Sports Action",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829332.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=FHVH09xallBCF2Ufynn5tQ&expires=1774868118",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=3ESw6ARr_yQO-R_-SusuGQ&expires=1774873104",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -201,7 +201,7 @@
       "id": "skysgol",
       "title": "Sky Sports Golf",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008055327.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=lZFDtQVrpYW945VfGLFUzg&expires=1774868118",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=HgnMtTqt0Bk5bqy1GsXRWA&expires=1774873104",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -209,7 +209,7 @@
       "id": "skysprem",
       "title": "Sky Sports Premier League",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/43-exptv.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=b-OzjLM7No129EdLrrfZ6g&expires=1774868119",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=phjKb2pglcasuSJZVZuHrA&expires=1774873105",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -217,7 +217,7 @@
       "id": "skysfott",
       "title": "Sky Sports Football",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/44-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=J17J1PyeYYLabFTLRTR8lA&expires=1774868119",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=agUPyY3N7UGdmh6EBzISWg&expires=1774873105",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -225,7 +225,7 @@
       "id": "skysare",
       "title": "Sky Sports Plus",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008347584.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=2dF4fi2uXeRiBD1WtTxkBQ&expires=1774868119",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=12GsRLpKUXA-EwK_Ffc1hA&expires=1774873106",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -233,7 +233,7 @@
       "id": "skysfor1",
       "title": "Sky Sports F1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008468637.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=lSEezn14Pwh1jAn0vhwcfQ&expires=1774868120",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=ZSCZyJAZJZJfTNJDIH8QcQ&expires=1774873106",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -241,7 +241,7 @@
       "id": "laligauk",
       "title": "LaLiGA",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/19-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=OwH5nskIyptoJ7btwP9mzA&expires=1774868120",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=fBoitguAX9q3xZM0qViWDA&expires=1774873106",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -249,7 +249,7 @@
       "id": "premieruk",
       "title": "Premier Sports 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/31-exptv.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=04G-qDgV64vpdLqmAbYlrw&expires=1774868120",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=t516kNaUjX6YH0rHjqKuGg&expires=1774873107",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -257,7 +257,7 @@
       "id": "hdchnl2",
       "title": "Premier Sports 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/31-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=6V2zAqSP2qOQ5w-yoQ0Xew&expires=1774868121",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=iugoDcyCl-AsP3ctqfAWnA&expires=1774873107",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -265,7 +265,7 @@
       "id": "superfotball",
       "title": "Super Football",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/34-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=L2bna4A8_3PHOEJlcBE8Og&expires=1774868121",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=OtqIobHBZBoDAXeQ-e3GLw&expires=1774873108",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -273,7 +273,7 @@
       "id": "superpremier",
       "title": "Super Premier League",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008781606.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=augenOAE4cQjsy9yhoCXwA&expires=1774868121",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=OCdzsd2UZNld46SuZNmghA&expires=1774873108",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -281,7 +281,7 @@
       "id": "fox501",
       "title": "Astro Cricket",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008895589.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=o7F3kASVlt_Y6J-tFbhv5g&expires=1774868122",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=_-IbyhqEMXB8cHL70dwFMw&expires=1774873109",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -289,7 +289,7 @@
       "id": "espnusa",
       "title": "ESPN 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/17-exptv.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=tSQdAdaSdkIxqg_Uo4YQsg&expires=1774868122",
+      "url": "https://ns1.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=M3-efF5oU5duXieVI-A-aQ&expires=1774873109",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -297,7 +297,7 @@
       "id": "espn2",
       "title": "ESPN 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/17-exptv.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=DgOgkzU9Hwg0gxgZ7Xj5YQ&expires=1774868122",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=N5ijomuTk5Vzrncu8p_IaA&expires=1774873110",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -305,7 +305,7 @@
       "id": "skysare",
       "title": "Sky Sports Arena",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png",
-      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=o8PUxWq2viy_cdBg_73VrA&expires=1774868123",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=SmKQFSOc4MCKtWeMwNBlzg&expires=1774873110",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -313,7 +313,7 @@
       "id": "skysmixx",
       "title": "Sky Sports Mix",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/13-exptv.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=mDCdplT-tVrOilfiALCu5Q&expires=1774868123",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=aV0cAJBN1X_IEudDjQpKTw&expires=1774873111",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -321,7 +321,7 @@
       "id": "skystennis",
       "title": "Sky Sports Tennis",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745009085794.png",
-      "url": "https://ns1.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=kObCUjErc7UxIPsSAwI_hA&expires=1774868123",
+      "url": "https://ns4.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=DCboTX4Q9mB23K6fZZ0hHA&expires=1774873111",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -329,7 +329,7 @@
       "id": "fox501",
       "title": "Fox Cricket 501 HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/6-exptv.png",
-      "url": "https://ns2.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=wz1TELXJowabgV_FzGqAHA&expires=1774868124",
+      "url": "https://ns2.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=EYZW8eY9zMDuX8poM16fDw&expires=1774873112",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     },
@@ -337,7 +337,7 @@
       "id": "ten1hd",
       "title": "Sony Sports3",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1000173192-modified.png",
-      "url": "https://ns3.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=iWdrQ9TLI0gok6h0WBuMHg&expires=1774868124",
+      "url": "https://ns3.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=Lay32DjqpfcmdHOKgGVN8w&expires=1774873112",
       "referer": "https://profamouslife.com/",
       "category": "sports"
     }
