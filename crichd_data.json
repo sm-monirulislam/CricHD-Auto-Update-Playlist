@@ -3,300 +3,300 @@
   "name": "CricHD Live Channels",
   "owner": "Monirul Islam",
   "channels_amount": 42,
-  "Last_update": "2026-04-11",
+  "Last_update": "2026-04-12",
   "response": [
     {
       "id": "star1in",
       "title": "Star Sports 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/16-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/star1in.m3u8?md5=1NWqCGBhXXo5NQewFOftSQ&expires=1775952636",
+      "url": "https://n100.zohanayaan.com:1686/hls/star1in.m3u8?md5=cMh4GXKQpf3eDdAGjhqvyw&expires=1775957071",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "starhindi",
       "title": "Star Sports 1 Hindi",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/starhindi.m3u8?md5=q8hoxrjGp1_fHHr-XomLRw&expires=1775952636",
+      "url": "https://n100.zohanayaan.com:1686/hls/starhindi.m3u8?md5=c65N46lwyvUB7O4akmba-Q&expires=1775957071",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "ptvpk",
       "title": "PTV Sports",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/20-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=zBUbttWntRGhvJmLmXoaoQ&expires=1775952636",
+      "url": "https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=aaRqmhTj-7RwKDIvx_aQHw&expires=1775957071",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "willowusa",
       "title": "Willow HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/38-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=LGfYwAqSGb7rVCae-KrCWg&expires=1775952636",
+      "url": "https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=m14KrfVdqdcJGgbOinhZTw&expires=1775957071",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "willowextra",
       "title": "Willow HD 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/8-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=gQUFKj_o8XfZgluc_pOB4g&expires=1775952636",
+      "url": "https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=jIiizOBS18VdEBZDSiCpKw&expires=1775957071",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "tenspk",
       "title": "Ten Sports",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/10-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/tenspk.m3u8?md5=-KSKp15FNqlibZLctKe2vQ&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/tenspk.m3u8?md5=Yz1Qz4YPmlrvDs3sNJ5zeg&expires=1775957072",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "asportshd",
       "title": "A Sports HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/12-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/asportshd.m3u8?md5=UMIAn88PXOdrXHtiWedmaQ&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/asportshd.m3u8?md5=bi4MPV1BQmuNdTz4-2C2bQ&expires=1775957072",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skyscric",
       "title": "Sky Sports Cricket",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/9-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skyscric.m3u8?md5=RPahl_BnPXNJw_AWacF7Rg&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/skyscric.m3u8?md5=kPT1E2TtxqKKX8t44STnxQ&expires=1775957072",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysme",
       "title": "Sky Cinema",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/skycinema.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=hoLgE5Yxgc3dfCSCtETxSg&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=XcS01k9hayt8z3SbxMf9lg&expires=1775957072",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "bbtsp1",
       "title": "TNT 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=JIHY36Ix2ohiQ8DpqiER-A&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=CIIUkL1-RThKd34UfGkROA&expires=1775957072",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "bbtsp2",
       "title": "TNT 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=QFmHmbgFeU2GfOWs8C4IfA&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=uvdUbIJep-eOYo_ybSEJaQ&expires=1775957072",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "bbtsp3",
       "title": "TNT 3",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=NEaAQvPrl2JC97YRf2kT5A&expires=1775952637",
+      "url": "https://n100.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=4DexZ9UYY36fWdOb14daQA&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "bbtespn",
       "title": "TNT 4",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=inxkV7zwKxNNPdNGq4czww&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=ewWKSvZi_e7f989UxP89XQ&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky1nz",
       "title": "Sky Sport Nz 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=l70VwYaeOttAPNCz7BrTSg&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=QnvDMnNTCmWZYfSzhZ05mQ&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky2nz",
       "title": "Sky Sport Nz 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=mS49_QdtYDQVAFwuM-p56g&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=q3AHYMXaIDdTW39pbwTlGg&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky3nz",
       "title": "Sky Sport Nz 3",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=UW_bIBi91nGjOLtVGpKB8w&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=T7kiDUSXordBa_n8EkgRXg&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky4nz",
       "title": "Sky Sport Nz 4",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=MCnT-TKy8xTkVHgF-CIWhg&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=WRQ3sUvNiCRuLCCQ7n1qqw&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky5nz",
       "title": "Sky Sport Nz 5",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=yx5f7EJCy8peEQ8Vsbeo9Q&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=iQMDoM420EkAliujdhzJHQ&expires=1775957073",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky6nz",
       "title": "Sky Sport 6 Nz",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=6iQ5Qe4FDqe0b7y_OK1a0w&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=JOPYbKgEufc7XlJM8XV41g&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky7nz",
       "title": "Sky Sport Nz 7",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=84eyhebVuo2-7WFpvhHkbw&expires=1775952638",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=Vudpt56ADWMA8fP6C4vckw&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky8nz",
       "title": "Sky Sport Nz 8",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=xOFeDLi4_EFgP5JwzfXpfA&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=UBGY43dgxsCrm0HlR_dTjw&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "sky9nz",
       "title": "Sky Sport Nz 9",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=5M-aynDCMKrIP0Rq36DV0w&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=mvC5642CqGa5B9zBzj49cg&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysme",
       "title": "Sky Cinema",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/skycinema.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=UQuvDD5ehP3nEDysCJfBPg&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=hWO2XShP0OToue9zrejfwA&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysact",
       "title": "Sky Sports Action",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829332.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysact.m3u8?md5=8DoFuSmfPUW4iKiktld4eQ&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysact.m3u8?md5=t_JZSEYO55vbTMEmjew_sQ&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysgol",
       "title": "Sky Sports Golf",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008055327.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysgol.m3u8?md5=Cty-HDdXG0rmnprsKmVYeQ&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysgol.m3u8?md5=hmZ2fo9c8vdmUV8pNeg3uA&expires=1775957074",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysprem",
       "title": "Sky Sports Premier League",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/43-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysprem.m3u8?md5=IAY3r-dMqnTSymUjUdN_Qw&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysprem.m3u8?md5=ctGZXYlnBEDoz9FwWMrVqw&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysfott",
       "title": "Sky Sports Football",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/44-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysfott.m3u8?md5=j3zpV04V8NYDS7mmMnPxVA&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysfott.m3u8?md5=EQahoWQLjBT7MnndpkB4jg&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysare",
       "title": "Sky Sports Arena",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=B7-DGnPBR3Kmqo9vicbfhg&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=t3HexKb47cY0TphX1yjwkA&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysfor1",
       "title": "Sky Sports F1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008468637.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=myUalou_6OxkuCm1bDAFnw&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=UGN4Mlv_B8ef4SuzG_RknQ&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "laligauk",
       "title": "LaLiGA",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/19-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/laligauk.m3u8?md5=s9NgziOizjhQoj1T2JCVvQ&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/laligauk.m3u8?md5=OgzzOrFDeVWkPn9EUroMmw&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "premieruk",
       "title": "Premier Sports 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/31-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/premieruk.m3u8?md5=tCXiMbw82wL6kyEKJbVIEA&expires=1775952639",
+      "url": "https://n100.zohanayaan.com:1686/hls/premieruk.m3u8?md5=ROT0JCLMHZNNeB8tjmZPjw&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "hdchnl2",
       "title": "Premier Sports 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/31-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=LLwnpEAvBTzbCzYCwQZXmw&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=OCi84PhBexkbbFX0m-YFEg&expires=1775957075",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "superfotball",
       "title": "Super Football",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/34-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/superfotball.m3u8?md5=WWkShMqqj-59YDmgiodQ0A&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/superfotball.m3u8?md5=l5ntOdSZuffgV2tVFUpmxw&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "superpremier",
       "title": "Super Premier League",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008781606.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/superpremier.m3u8?md5=cvX0GKyjxg5OqIn_bLRJNw&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/superpremier.m3u8?md5=tAMgDx3Te6D-2eQtp4EEmQ&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "fox501",
       "title": "Fox Cricket 501 HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/6-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=quIyR4d9YvVrDXQeU5OAlQ&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=cR48WvoChk6Jmkmzz85cWg&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "espnusa",
       "title": "ESPN 1",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/17-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/espnusa.m3u8?md5=xYojOEc2wztrmFKHYRWCWw&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/espnusa.m3u8?md5=WQdW76nuDbEFONZUQwQnyQ&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "espn2",
       "title": "ESPN 2",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/17-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/espn2.m3u8?md5=LBYQTnIuKaxSHbjhyNBBOg&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/espn2.m3u8?md5=9XuvinfrQZBcNSLx-Kgu6w&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysare",
       "title": "Sky Sports Arena",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=cGDmBb56xRul-8C1Dz6gJg&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=uPCfPeqzmKb_0KCoqEZ_9Q&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skysmixx",
       "title": "Sky Sports Mix",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/13-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=ZfUa_3zHOx3UKlsmC5_ukg&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=llnixOzOZPrlEL40qhFb7A&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "skystennis",
       "title": "Sky Sports Tennis",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745009085794.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/skystennis.m3u8?md5=P_WMS3_n4_8x7G064BbGqg&expires=1775952640",
+      "url": "https://n100.zohanayaan.com:1686/hls/skystennis.m3u8?md5=6GSY6B6pdPUCoGCSekFJfw&expires=1775957076",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "fox501",
       "title": "Fox Cricket 501 HD",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/6-exptv.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=gt-q8wtGZ6S0O16BIQ8w3g&expires=1775952641",
+      "url": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=dlQwDNEhLPFore7FsJf60Q&expires=1775957077",
       "Referer": "https://executeandship.com/"
     },
     {
       "id": "ten1hd",
       "title": "Sony Sports3",
       "logo": "https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1000173192-modified.png",
-      "url": "https://n100.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=Tbd9UZES7EX6SPUkotuzew&expires=1775952641",
+      "url": "https://n100.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=oLDc11csxZY9jhoY_uon9A&expires=1775957077",
       "Referer": "https://executeandship.com/"
     }
   ]
