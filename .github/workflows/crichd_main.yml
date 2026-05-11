@@ -2,9 +2,7 @@ name: Auto Update CricHD playlist
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: " * * * *"   # প্রতি ৩০ মিনিটে run
-
+  
 permissions:
   contents: write
 
