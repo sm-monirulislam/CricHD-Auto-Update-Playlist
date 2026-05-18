@@ -3,7 +3,7 @@ name: Auto Update CricHD playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/20 * * * *"
 
 permissions:
   contents: write
